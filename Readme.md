@@ -18,6 +18,8 @@ a smaller, faster, and more secure container.
 
 # Project Architecture
 
+![Architecture](Architecture.png)
+
 ``` text
                  Developer
                      │
